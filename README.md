@@ -14,5 +14,7 @@ dはDesign, pはProduce
 - Astro
 - Storybook
 - biome
+- vitest
+
 ## TODO
 - e2eテストツール(cypress)を入れるかどうか決める
